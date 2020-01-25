@@ -19,7 +19,9 @@ Orem, UT August 2017 to Present
  
 ### Links 
 https://github.com/Funnyboy363 
+
 https://www.linkedin.com/in/gswebdev/
+
 https://twitter.com/gs_webdev
  
 ### Skills 
