@@ -1,7 +1,8 @@
 # Grant Shoop 
 Web Developer  
 Pleasant Grove, UT  
-grantshoop@gmail.com  (801) 427-0689 
+grantshoop@gmail.com  
+(801) 427-0689 
  
 ### Web Support Technician Web Development Services (UVU) - Orem, UT  March 2019 to Present 
 Web related work part time working at Utah Valley University. Weekly meetings with Web Stewards and individuals for web updates and planning. Each new website would be planned under a six week process.  I advanced my learning about Javascript, JQuery, Bootstrap and Mustache Handlebars. 
@@ -18,6 +19,8 @@ Orem, UT August 2017 to Present
  
 ### Links 
 https://github.com/Funnyboy363 
+https://www.linkedin.com/in/gswebdev/
+https://twitter.com/gs_webdev
  
 ### Skills 
 VueJs/ Node/ MongoDB/ SQL/ HTML/ CSS/ SASS/ PHOTOSHOP/ Wordpress/ Javascript/ Mustache/Handlebars/ Bootstrap/ Illustrator/ Indesign/ NPM/ Mongoose/ Express/ Handlebars/ PUG/  
