@@ -11,8 +11,8 @@ Utah Valley University, Orem, UT                               Anticipated Gradu
 
 
 ## Experience
-### Web Development Services @ UVU, Orem, UT                                              March 2019 to Present
-### Web Support Technician  
+#### Web Development Services @ UVU, Orem, UT                                              March 2019 to Present
+#### Web Support Technician  
 Met with Web Stewards bi-weekly for web review and updates.
 Met with Supervisor bi-weekly to go over current projects and tasks
 Implemented, adjusted and maintained UVU department websites with OU Campus and Bootstrap.
