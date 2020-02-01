@@ -3,7 +3,7 @@
 801-427-0689 | grantshoop@gmail.com | https://linkedin.com/in/gswebdev/ | https://github.com/Funnyboy363
 
 ## Skills
-VueJs, Express, Crud operations, Github, Heroku, Mongoose, mySQL, Node, MongoDB, Html, Api, Css, Sass, Photoshop, Wordpress, Javascript, Mustache, Handlebars, Bootstrap, Unit testing
+VueJs, Express, Crud operations, Github, Heroku, Mongoose, mySQL, Node, MongoDB, Html, Api, Css, Sass, Photoshop, Wordpress, Javascript, Mustache, Handlebars, Bootstrap, Unit testing, SQL, NoSQL, Authentication, RestAPI, GraphQL, Socket.io
 
 ## Education 
 ### Bachelors in Web Development, Web and App Emphasis 
@@ -21,15 +21,15 @@ Adjusted images for sites with Photoshop.
 Adjusted sites using CSS.
 
 
-### Hope4Utah, Provo, UT                                                                  August 2018 to March 2019
-### WordPress Web Developer
+#### Hope4Utah, Provo, UT                                                                  August 2018 to March 2019
+#### WordPress Web Developer
 Met with Supervisor and CEO weekly to go over the site and talk about updates and changes.
 Implemented, adjusted and maintained three wordpress sites.
 Learned how to efficiently maintain a website on Wordpress.
 
 
-### Boostability, Orem, UT                                                               February 2018 to August 2018
-### Web Implementation Specialist
+#### Boostability, Orem, UT                                                               February 2018 to August 2018
+#### Web Implementation Specialist
 Learned how to implement websites to WordPress from PDF designs.
 Learned how to adjust images using GIMP.
 Adjusted site for clients according to company standards.
