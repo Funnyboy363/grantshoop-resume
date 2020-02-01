@@ -1,28 +1,35 @@
-# Grant Shoop 
-Web Developer  
-Pleasant Grove, UT  
-grantshoop@gmail.com  
-(801) 427-0689 
- 
-### Web Support Technician Web Development Services (UVU) - Orem, UT  March 2019 to Present 
-Web related work part time working at Utah Valley University. Weekly meetings with Web Stewards and individuals for web updates and planning. Each new website would be planned under a six week process.  I advanced my learning about Javascript, JQuery, Bootstrap and Handlebars. 
- 
-### Web Developer Hope4Utah - Provo, UT  August 2018 to January 2019  
-Website Maintenance for three websites. Work also included designing and implementing new pages for the sites. I would receive maintenance tickets occasionally to update or adjust parts of the sites. During this experience, I would attend weekly meetings to keep up to date with the supervisor of progress of work and plans for future production.  
- 
-### Web Implementation Specialist Boostability - Orem, UT  February 2018 to July 2018 
-Work entailed building websites on wordpress for clients. Followed instructions for requests of what  content will be implemented into each website. Designer discretion was included, so I was allowed to be  creative in the design. CSS and HTML was involved if there was a need for adjustment.  
- 
-### Education  
-Bachelors in Web Development Utah Valley University  
-Orem, UT August 2017 to Present 
- 
-### Links 
-https://github.com/Funnyboy363 
+# Grant Shoop
 
-https://www.linkedin.com/in/gswebdev/
+801-427-0689 | grantshoop@gmail.com | linkedin.com/in/gswebdev/ | github.com/Funnyboy363
 
-https://twitter.com/gs_webdev
- 
-### Skills 
-VueJs/ Node/ MongoDB/ SQL/ HTML/ CSS/ SASS/ PHOTOSHOP/ Wordpress/ Javascript/ Mustache/ Handlebars/ Bootstrap/ Illustrator/ Indesign/ NPM/ Mongoose/ Express/ PUG/ Adobe XD/
+## Skills
+VueJs, Express, Crud operations, Github, Heroku, Mongoose, mySQL, Node, MongoDB, Html, Api, Css, Sass, Photoshop, Wordpress, Javascript, Mustache, Handlebars, Bootstrap, Unit testing
+
+## Education 
+### Bachelors in Web Development, Web and App Emphasis 
+Utah Valley University, Orem, UT                               Anticipated Graduation, May 2020
+
+
+## Experience
+### Web Development Services @ UVU, Orem, UT                                              March 2019 to Present
+### Web Support Technician  
+Met with Web Stewards bi-weekly for web review and updates
+Met with Supervisor bi-weekly to go over current projects and tasks
+Implemented, adjusted and maintained UVU department websites with OU Campus and Bootstrap
+Effectively communicated with supervisor and web stewards through phone communication and email
+Adjusted images for sites with Photoshop
+Adjusted sites using CSS
+
+
+### Hope4Utah, Provo, UT                                                                  August 2018 to March 2019
+### WordPress Web Developer
+Met with Supervisor and CEO weekly to go over the site and talk about updates and changes
+Implemented, adjusted and maintained three wordpress sites
+Learned how to efficiently maintain a website on Wordpress
+
+
+### Boostability, Orem, UT                                                               February 2018 to August 2018
+### Web Implementation Specialist
+Learned how to implement websites to WordPress from PDF designs
+Learned how to adjust images using GIMP
+Adjusted site for clients according to company standards
