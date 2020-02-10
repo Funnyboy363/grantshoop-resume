@@ -1,6 +1,6 @@
 # Grant Shoop
 
-801-427-0689 | grantshoop@gmail.com | [LinkedIn](https://linkedin.com/in/gswebdev/) | [PortfolioSite] (https://grantshoop-portfolio.netlify.com/)
+801-427-0689 | grantshoop@gmail.com | [LinkedIn](https://linkedin.com/in/gswebdev/) | [PortfolioSite](https://grantshoop-portfolio.netlify.com/)
 
 ## Skills
 VueJs, Express, Crud operations, Github, Heroku, Mongoose, mySQL, Node, MongoDB, Html, Api, Css, Sass, Photoshop, Wordpress, Javascript, Mustache, Handlebars, Bootstrap, Unit testing, SQL, NoSQL, Authentication, RestAPI, GraphQL, Socket.io
